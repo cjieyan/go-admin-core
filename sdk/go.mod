@@ -1,13 +1,13 @@
 module github.com/cjieyan/go-admin-core/sdk
 
-go 1.14
+go 1.18
 
 require (
 	github.com/bsm/redislock v0.5.0
 	github.com/bytedance/go-tagexpr/v2 v2.7.12
 	github.com/casbin/casbin/v2 v2.37.4
 	github.com/chanxuehong/wechat v0.0.0-20201110083048-0180211b69fd
-	github.com/cjieyan/gorm-adapter/v3 v3.0.0-20220622090231-4e27f49a4315
+	github.com/cjieyan/gorm-adapter/v3 main
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gin-gonic/gin v1.7.3
 	github.com/cjieyan/go-admin-core main
