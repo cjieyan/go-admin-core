@@ -70,8 +70,8 @@ github.com/chanxuehong/wechat v0.0.0-20211009063332-41a5c6d8b38b/go.mod h1:mysjr
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=
-github.com/cjieyan/go-admin-core v0.0.0-20220622103146-fb0d0eeff398 h1:Neas9bTh3UoxP/0tYepbDBTpyuPzW+zQjQP1IIlf5Aw=
-github.com/cjieyan/go-admin-core v0.0.0-20220622103146-fb0d0eeff398/go.mod h1:UECbn2H+WB0UIeuC2BsDTbcsS1pgXrxaa7a3G1QdzxM=
+github.com/cjieyan/go-admin-core v0.0.0-20220622112154-7c782ae098c4 h1:pYS1OQOQD0f/Offs5vJ+pw1P8As6xTyGsgHAn1X1+/w=
+github.com/cjieyan/go-admin-core v0.0.0-20220622112154-7c782ae098c4/go.mod h1:UECbn2H+WB0UIeuC2BsDTbcsS1pgXrxaa7a3G1QdzxM=
 github.com/cjieyan/go-admin-core/plugins/logger/zap v0.0.0-20220622103146-fb0d0eeff398 h1:9sSzucdBPq6e67MxzILzR5wYKijn45+2OKJnagYTNuY=
 github.com/cjieyan/go-admin-core/plugins/logger/zap v0.0.0-20220622103146-fb0d0eeff398/go.mod h1:HIFPe6sQda39ey7JpmtKw8h4+n4GY594QFrjvXGqWWg=
 github.com/cjieyan/gorm-adapter/v3 v3.0.0-20220622090231-4e27f49a4315 h1:S/Qfy4xnAwbsqoV2OlmZ85pGyb17x7v7SCx3kwhmgn4=

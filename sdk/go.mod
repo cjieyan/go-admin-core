@@ -7,7 +7,7 @@ require (
 	github.com/bytedance/go-tagexpr/v2 v2.9.3
 	github.com/casbin/casbin/v2 v2.47.3
 	github.com/chanxuehong/wechat v0.0.0-20211009063332-41a5c6d8b38b
-	github.com/cjieyan/go-admin-core v0.0.0-20220622103146-fb0d0eeff398
+	github.com/cjieyan/go-admin-core v0.0.0-20220622112154-7c782ae098c4
 	github.com/cjieyan/go-admin-core/plugins/logger/zap v0.0.0-20220622103146-fb0d0eeff398
 	github.com/cjieyan/gorm-adapter/v3 v3.0.0-20220622090231-4e27f49a4315
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
