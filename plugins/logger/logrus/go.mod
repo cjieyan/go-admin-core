@@ -1,10 +1,14 @@
-module github.com/go-admin-team/go-admin-core/plugins/logger/logrus
+module github.com/cjieyan/go-admin-core/plugins/logger/logrus
 
-go 1.14
+go 1.18
 
 require (
-	github.com/go-admin-team/go-admin-core v1.3.5-rc.5
+	github.com/cjieyan/go-admin-core v0.0.0-20220622100816-026d4602e439
 	github.com/sirupsen/logrus v1.8.0
 )
 
-replace github.com/go-admin-team/go-admin-core => ../../../
+require (
+	github.com/magefile/mage v1.10.0 // indirect
+	golang.org/x/sys v0.0.0-20191026070338-33540a1f6037 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
+)
