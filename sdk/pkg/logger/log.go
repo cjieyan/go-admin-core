@@ -1,12 +1,12 @@
 package logger
 
 import (
+	"github.com/cjieyan/go-admin-core/plugins/logger/zap"
 	"io"
 	"os"
 
 	"github.com/cjieyan/go-admin-core/debug/writer"
 	"github.com/cjieyan/go-admin-core/logger"
-	"github.com/cjieyan/go-admin-core/plugins/logger/zap"
 	"github.com/cjieyan/go-admin-core/sdk/pkg"
 
 	log "github.com/cjieyan/go-admin-core/logger"
