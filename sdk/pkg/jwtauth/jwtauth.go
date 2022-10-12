@@ -205,6 +205,7 @@ var (
 
 	// IdentityKey default identity key
 	IdentityKey = "identity"
+	TenantUserIdKey = "tenantuserid"
 
 	// NiceKey 昵称
 	NiceKey      = "nice"
