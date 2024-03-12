@@ -18,7 +18,7 @@ require (
 	github.com/go-redis/redis/v7 v7.4.0
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/websocket v1.5.0
-	github.com/mojocn/base64Captcha v1.3.6
+	github.com/mojocn/base64Captcha v1.3.5
 	github.com/nsqio/go-nsq v1.1.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/robinjoseph08/redisqueue/v2 v2.1.0
